@@ -1,0 +1,34 @@
+{
+  "signIn_signInScreenTitle": "Sign In",
+  "@signInScreenTitle": {
+    "description": "Text for Sign In screen title"
+  },
+  "signIn_selectLanguageButtonLabel": "Select Language",
+  "@selectLanguageButtonLabel": {
+    "description": "Label for Select Language text button"
+  },
+  "signIn_mobileHintText": "Mobile",
+  "@mobileHintText": {
+    "description": "Hint text for text input field for mobile number"
+  },
+  "signIn_passwordHintText": "Password",
+  "@passwordHintText": {
+    "description": "Hint text for text input field for password"
+  },
+  "signIn_signInButtonLabel": "Sign In",
+  "@signInButtonLabel": {
+    "description": "Label for Sign In button"
+  },
+  "signIn_forgotPasswordButtonLabel": "Forgot Password?",
+  "@forgotPasswordButtonLabel": {
+    "description": "Label for Forgot Password text button"
+  },
+  "signIn_startForFreeText": "Start for free",
+  "@startForFreeText": {
+    "description": "Start for free text"
+  },
+  "signIn_createNewAccountButtonLabel": "Create New Account",
+  "@createNewAccountButtonLabel": {
+    "description": "Label for Create New Account text button"
+  }
+}

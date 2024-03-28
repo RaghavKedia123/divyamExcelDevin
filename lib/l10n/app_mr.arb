@@ -1,0 +1,10 @@
+{
+  "signIn_signInScreenTitle": "लॉगिन करा",
+  "signIn_selectLanguageButtonLabel": "भाषा निवडा",
+  "signIn_mobileHintText": "मोबाईल",
+  "signIn_passwordHintText": "पासवर्ड",
+  "signIn_signInButtonLabel": "लॉगिन करा",
+  "signIn_forgotPasswordButtonLabel": "पासवर्ड विसरलात?",
+  "signIn_startForFreeText": "निःशुल्क सुरुवात करा",
+  "signIn_createNewAccountButtonLabel": "नवीन अकाउंट बनवा"
+}
